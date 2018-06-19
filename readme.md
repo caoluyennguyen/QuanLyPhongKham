@@ -25,11 +25,11 @@ Clinic manager (private clinic) is project for subject "Introduction to Software
 - Show statistics about using medicine by day, month.
 - Manage some regulations: the maximum number of patient per day, the fee of medical examination, warning amount of medicine left.
 - In addition, main form illustrate some another useful data like:
- + The number of patient examined, the turnover in the current month.
- + The lastest 7-day income chart.
- + The most used medicine in a month.
- + The highest number of medicine
- + Warning about the exhausted of medicine.
+  + The number of patient examined, the turnover in the current month.
+  + The lastest 7-day income chart.
+  + The most used medicine in a month.
+  + The highest number of medicine
+  + Warning about the exhausted of medicine.
 
 ## About Us
 
