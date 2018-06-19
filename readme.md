@@ -99,8 +99,8 @@ Quản lý phòng khám (phòng mạch tư) là đồ án môn "Nhập môn côn
 
 - **[Laravel 5.5](https://laravel.com/docs/5.5)**
 - **[Bootstrap 3.3](https://getbootstrap.com/docs/3.3/)**
-- **[Some documents and slide of teacher ĐTTT](fb.com/vanloctech)**
-- **[Some documents find on Google](https://google.com.vn)**
+- **[Một số tài liệu và bài giảng của giáo viên ĐTTT](fb.com/vanloctech)**
+- **[Một số tài liệu tìm kiếm trên google](https://google.com.vn)**
 
 ## Đóng góp
 
