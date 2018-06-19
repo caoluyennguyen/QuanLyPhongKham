@@ -55,7 +55,7 @@ Let us know about your contributing idea to improve this project. For more infor
 ## License
 
 Copyright 2018 - QuanLyPhongKham by Group 1Acer2HP1Dell (UIT)
-
+<hr>
 <h1>Tiếng Việt</h1>
 
 <p align="center">
