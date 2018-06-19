@@ -12,7 +12,7 @@ Project for Subject "Introduction to Software Engineering"
 
 ## About QuanLyPhongKham
 
-Clinic manager (private clinic) is project for subject "Introduction to Software Engineering" of our group (class SE104.I22 - University of Information Technology (UIT)). Clinic manager is a software which is used for clinic to manage the patient information and daily medicine unit,.... There are some feature of this:
+Clinic manager (private clinic) is project for subject "Introduction to Software Engineering" of our group (class SE104.I22 - University of Information Technology (UIT)). Clinic manager is a software which is used for clinic to manage the patient information, daily medicine unit, etc. There are some feature of this:
 - Manage patient informations (list of patient; add, delete or change patient information).
 - Manage the prescription (list of prescription; add, delete or change prescription information).
 - Show and export medicine invoice.
@@ -67,7 +67,7 @@ Copyright 2018 - QuanLyPhongKham by Group 1Acer2HP1Dell (UIT)
 
 ## Phần mềm QuanLyPhongKham
 
-Quản lý phòng khám (phòng mạch tư) là đồ án môn "Nhập môn công nghệ phần mềm" của nhóm CNPM (Lớp SE104.I22 - ĐH Công Nghệ Thông Tin (UIT)). Quản lý phòng khám là phần mềm dùng cho các phòng mạch tư để dể dàng quản lý bệnh nhân và các đơn thuốc hằng ngày,.... Đồ án quản lý phòng mạch bao gồm các chức năng như sau:
+Quản lý phòng khám (phòng mạch tư) là đồ án môn "Nhập môn công nghệ phần mềm" của nhóm CNPM (Lớp SE104.I22 - ĐH Công Nghệ Thông Tin (UIT)). Quản lý phòng khám là phần mềm dùng cho các phòng mạch tư để dể dàng quản lý bệnh nhân, các đơn thuốc hằng ngày,.... Đồ án quản lý phòng mạch bao gồm các chức năng như sau:
 
 - Quản lý bệnh nhân (DS các bệnh nhân, thêm, xóa, sửa bệnh nhân).
 - Quản lý phiếu khám bệnh (DS các phiếu khám bệnh, thêm xóa, sửa phiếu khám bệnh).
