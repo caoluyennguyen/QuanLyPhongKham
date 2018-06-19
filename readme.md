@@ -1,12 +1,14 @@
 <p align="center"><img src="https://raw.githubusercontent.com/vanloctech/QuanLyPhongKham/master/public/favicon.ico" width="128" height="128"></p>
 
+<h1>English</h1>
+
 <p align="center">
   Project by Group 1Acer2HP1Dell
 </p>
 <p align="center">  
 Project for Subject "Introduction to Software Engineering"
 </p>
-<h1>English</h1>
+
 
 ## About QuanLyPhongKham
 
@@ -54,11 +56,15 @@ Let us know about your contributing idea to improve this project. For more infor
 
 Copyright 2018 - QuanLyPhongKham by Group 1Acer2HP1Dell (UIT)
 
+<h1>Tiếng Việt</h1>
+
+<p align="center">
+  Đồ án của nhóm 1Acer2HP1Dell
+</p>
 <p align="center">  
-Đồ án môn học "Nhập môn Công nghệ phần mềm"
+Đồ án môn "Nhập môn Công nghệ phần mềm"
 </p>
 
-<h1>Tiếng việt</h1>
 
 ## Phần mềm QuanLyPhongKham
 
